@@ -1,1 +1,1 @@
-# timetabling.github.io
+# timetabling.github
